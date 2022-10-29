@@ -2,7 +2,7 @@
 #include <vector>
 #define fast ios::sync_with_stdio(0), cin.tie(nullptr), cout.tie(nullptr)
 using namespace std;
-
+//1138 backjun
 int main() {
 	fast;
 	int N;
